@@ -1,4 +1,4 @@
-# Epidemic Prevention Inspector APP
+# Epidemic Prevention Inspector
 
 ## Instructor and Speaker
 #### Kevin Tsai, Wei-Chun Tsai
