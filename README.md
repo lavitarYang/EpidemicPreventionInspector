@@ -4,7 +4,7 @@
 #### Prof. [Gwo-Jong Yu](http://wireless.csie.au.edu.tw/new/)
 
 ## Creator
-#### [Wei-Chun Tsai](https://kevintsaicode.github.io), Yang Yang, Shin-Hua Lee
+#### [Wei-Chun Tsai](https://kevintsaicodes.github.io), Yang Yang, Shin-Hua Lee
 
 ## Laboratory
 #### Multimedia and Wireless Communication Computing Lab
