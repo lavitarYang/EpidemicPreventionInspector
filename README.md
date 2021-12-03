@@ -1,13 +1,10 @@
 # Epidemic Prevention Inspector
 
-## Instructor and Speaker
-#### Kevin Tsai, Wei-Chun Tsai
-
 ## Advisor
 #### Prof. Gwo-Jong Yu
 
 ## Creator
-#### Wei-Chun Tsai, Yang Yang, Shin-Hua Lee
+#### [Wei-Chun Tsai](kevintsaicode.github.io), Yang Yang, Shin-Hua Lee
 
 ## Laboratory
 #### Multimedia and Wireless Communication Computing Lab
@@ -35,18 +32,22 @@
 
 # Release Notes
 
-#### 2020-08 Collect Dataset
+#### 2020-08 Collect Dataset (Wei-Chun Tsai)
 
-#### 2020-10 Digital Image Processing (ROI)
+#### 2020-10 Digital Image Processing (ROI) (Wei-Chun Tsai)
 
-#### 2020-12 Try Writing Convolution Neural Netorks(CNN)
+#### 2020-12 Try Writing Convolution Neural Netorks(CNN) (Wei-Chun Tsai)
 
-#### 2021-02 Transfer Learning, MobileNetv2 PC Base Finished
+#### 2021-02 Transfer Learning, MobileNetv2 PC Base Finished (Wei-Chun Tsai)
 
-#### 2021-04 Finished RFID with Buzzer Circuit Design
+#### 2021-04 Finished RFID with Buzzer Circuit Design (Yang Yang)
 
-#### 2021-07 Finished MLX90614 Circuit Design
+#### 2021-07 Finished MLX90614 Circuit Design (Shin-Hua Lee)
 
-#### 2021-09 Finished Android APP
+#### 2021-09 Finished Android APP (Wei-Chun Tsai)
 
-#### 2021-11 Finihed System Integration
+#### 2021-10 Finihed System Integration (Wei-Chun Tsai)
+
+#### 2021-11 Poster Finished, Thematic Report Finished (Wei-Chun Tsai)
+
+#### 2021-12 Fold Finished (Wei-Chun Tsai)
