@@ -29,9 +29,9 @@
 #### (5) [Deploy machine learning models on mobile and IoT devices](https://www.tensorflow.org/lite)
 #### (6) [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 #### (7) [Develop Android apps with Kotlin](https://developer.android.com/kotlin)
-#### (8) [RFID]()
-#### (9) [MLX90614]()
-#### (10) [Arduino]()
+#### (8) [RFID](https://create.arduino.cc/projecthub/shubamtayal/rfid-scanner-full-tutorial-6518db)
+#### (9) [MLX90614](https://create.arduino.cc/projecthub/infoelectorials/project-014-arduino-mlx90614-infrared-temperature-sensor-a48bba)
+#### (10) [Arduino](https://www.arduino.cc/)
 
 # Release Notes
 
