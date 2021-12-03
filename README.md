@@ -1,10 +1,10 @@
 # Epidemic Prevention Inspector
 
 ## Advisor
-#### Prof. Gwo-Jong Yu
+#### Prof. [Gwo-Jong Yu](http://wireless.csie.au.edu.tw/new/)
 
 ## Creator
-#### [Wei-Chun Tsai](kevintsaicode.github.io), Yang Yang, Shin-Hua Lee
+#### [Wei-Chun Tsai](https://kevintsaicode.github.io), Yang Yang, Shin-Hua Lee
 
 ## Laboratory
 #### Multimedia and Wireless Communication Computing Lab
