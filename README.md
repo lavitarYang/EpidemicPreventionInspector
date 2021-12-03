@@ -3,6 +3,15 @@
 ## Instructor and Speaker
 #### Kevin Tsai, Wei-Chun Tsai
 
+## Advisor
+#### Prof. Gwo-Jong Yu
+
+## Creator
+#### Wei-Chun Tsai, Yang Yang, Shin-Hua Lee
+
+## Laboratory
+#### Multimedia and Wireless Communication Computing Lab
+
 ## Motivation
 #### The coronavirus disease 2019 (COVID-19) is an infectious disease caused by a type of coronavirus known as SARS-CoV-2 that had caused an ongoing pandemic.
 
