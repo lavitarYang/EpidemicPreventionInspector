@@ -15,8 +15,8 @@
 ## Programming Skills Used
 #### Android , Kotlin, MQTT, Arduino, C++, Latex
 
-## The main content of this workshop
-#### The main content of this workshop is showing how nerual networks are trained, learned, and worked in face-mask detection. 
+## The main contribution of this system
+#### The main contribution of this system is showing how prevent COVID-19 at a low cost. 
 
 # Reference
 #### (1) [Single Shot MultiBox Detector](https://paperswithcode.com/method/ssd)
