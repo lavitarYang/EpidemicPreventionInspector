@@ -22,11 +22,31 @@
 #### The main content of this workshop is showing how nerual networks are trained, learned, and worked in face-mask detection. 
 
 # Reference
-
-#### (1) [Deploy machine learning models on mobile and IoT devices](https://www.tensorflow.org/lite)
-#### (2) [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
-#### (3) [Develop Android apps with Kotlin](https://developer.android.com/kotlin)
+#### (1) [Single Shot MultiBox Detector](https://paperswithcode.com/method/ssd)
+#### (2) [You Only Look Once](https://paperswithcode.com/paper/you-only-look-once-unified-real-time-object)
+#### (3) [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural)
+#### (4)[Mask-RCNN](https://paperswithcode.com/paper/mask-r-cnn)
+#### (5) [Deploy machine learning models on mobile and IoT devices](https://www.tensorflow.org/lite)
+#### (6) [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+#### (7) [Develop Android apps with Kotlin](https://developer.android.com/kotlin)
+#### (8) [RFID]()
+#### (9) [MLX90614]()
+#### (10) [Arduino]()
 
 # Release Notes
 
-#### 2021-08 Finished Android APP
+#### 2020-08 Collect Dataset
+
+#### 2020-10 Digital Image Processing (ROI)
+
+#### 2020-12 Try Writing Convolution Neural Netorks(CNN)
+
+#### 2021-02 Transfer Learning, MobileNetv2 PC Base Finished
+
+#### 2021-04 Finished RFID with Buzzer Circuit Design
+
+#### 2021-07 Finished MLX90614 Circuit Design
+
+#### 2021-09 Finished Android APP
+
+#### 2021-11 Finihed System Integration
